@@ -1,1 +1,1 @@
-learning 0x03_git is fun
+learning 0x03-git is fun
